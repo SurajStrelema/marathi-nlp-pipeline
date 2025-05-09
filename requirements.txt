@@ -1,3 +1,6 @@
 transformers
 pandas
 openpyxl
+torch
+torchvision
+torchaudio
